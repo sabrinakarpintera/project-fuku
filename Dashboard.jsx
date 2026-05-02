@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import "./style/Shop.css";
+import "Shop.css";
 import logoImage from "../assets/fuku-logo.png";
 
 export default function Dashboard() {
